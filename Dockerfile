@@ -11,4 +11,4 @@ WORKDIR /app
 COPY src/ ./src
 COPY tsconfig.json ./
 
-RUN yarn start
+CMD ["yarn", "start"]
