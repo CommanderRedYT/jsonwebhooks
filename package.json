@@ -1,6 +1,6 @@
 {
   "name": "jsonwebhooks",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A simple server that periodically fetches JSON data from a URL and sends webhooks on certain conditions.",
   "main": "src/index.ts",
   "scripts": {
